@@ -14,4 +14,4 @@ DotSKy is a web application that allows users to manage their reservations and v
 - Delete Data: Users can delete their accounts if needed.
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](https://github.com/DotSahilR/DotSky/blob/main/output1.png)
